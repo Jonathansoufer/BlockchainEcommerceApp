@@ -2,8 +2,8 @@
 
 ## Libraries and tools
 
-Truffle
-Ganache
-Ethers
-Koa
-Solidity
+- Truffle
+- Ganache
+- Ethers
+- Koa
+- Solidity
